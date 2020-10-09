@@ -33,6 +33,23 @@ export const homeObjTwo = {
 }
 
 export const homeObjThree = {
+    id: 'services',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Join our Team',
+    headline: 'Creating an account is extremely easy',
+    description: "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+    buttonLabel: 'Start Now',
+    imgStart: false,
+    img: require('../../images/svg-3.svg'),
+    alt: 'Phone',
+    dark: false,
+    primary: false,
+    darkText: true
+}
+
+export const homeObjFour = {
     id: 'signup',
     lightBg: true,
     lightText: false,
